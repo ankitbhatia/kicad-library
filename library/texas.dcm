@@ -132,6 +132,11 @@ K Buck Boost step-up step-down
 F http://www.ti.com/lit/ds/symlink/lm5175.pdf
 $ENDCMP
 #
+$CMP LMZ12008
+D LMZ12008 8-A SIMPLE SWITCHER® Power Module With 20-V Maximum Input Voltage
+F http://www.ti.com/lit/ds/symlink/lmz12008.pdf
+$ENDCMP
+#
 $CMP TCA9555PWR
 D 16-bit I/O expander, I2C and SMBus interface, interrupts, TSSOP-24 package
 K ti parallel port
